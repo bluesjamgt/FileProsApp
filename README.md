@@ -72,6 +72,8 @@ FileProsApp/
 ├── 💥 delete_pane.py    # Deletion & Cleanup Module
 │
 └── 🛠️ utils.py          # Shared Utilities Library
+```
+
 
 ## Component Versions
 
