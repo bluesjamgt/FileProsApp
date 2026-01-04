@@ -59,7 +59,7 @@ A module introduced in v4.0, focused on batch conversion and processing of video
 
 ## Project Structure
 
-``text
+```text
 FileProsApp/
 │
 ├── 📜 README.md         # Technical Documentation
