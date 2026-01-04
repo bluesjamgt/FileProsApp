@@ -1,6 +1,6 @@
 # FileProsApp v4.1 - Professional File Organizer
 
-(https://raw.githubusercontent.com/bluesjamgt/FileProsApp/refs/heads/main/preview.jpg)
+![FileProsApp Preview](https://raw.githubusercontent.com/bluesjamgt/FileProsApp/refs/heads/main/preview.jpg)
 
 A modular desktop application based on Python, featuring an architecture that separates the "Data Center" from the "Operation Panels." Designed to provide batch processing, format conversion, and automated naming solutions for complex file management workflows.
 
